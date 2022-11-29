@@ -1,4 +1,4 @@
-package com.example.proarea_test
+package com.example.cat_facts
 
 import io.flutter.embedding.android.FlutterActivity
 
