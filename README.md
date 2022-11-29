@@ -1,2 +1,2 @@
-# proarea_test
+# cat_facts
 Test project for ProArea

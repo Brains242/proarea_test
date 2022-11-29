@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.proarea_test">
+    package="com.example.cat_facts">
    <application
-        android:label="proarea_test"
+        android:label="Cat Facts"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
